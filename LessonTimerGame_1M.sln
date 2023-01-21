@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TimerDemoApp", "TimerDemoAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlyGame", "FlyGame\FlyGame.csproj", "{1F86F9A5-2A45-497B-AE36-0F77227916EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpeedGame", "SpeedGame\SpeedGame.csproj", "{EB8C79F0-795C-4C22-BE73-D9AFDB9A63A2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1F86F9A5-2A45-497B-AE36-0F77227916EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F86F9A5-2A45-497B-AE36-0F77227916EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F86F9A5-2A45-497B-AE36-0F77227916EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB8C79F0-795C-4C22-BE73-D9AFDB9A63A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB8C79F0-795C-4C22-BE73-D9AFDB9A63A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB8C79F0-795C-4C22-BE73-D9AFDB9A63A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB8C79F0-795C-4C22-BE73-D9AFDB9A63A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

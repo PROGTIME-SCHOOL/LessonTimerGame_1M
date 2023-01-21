@@ -1,0 +1,11 @@
+C:\Users\viosagmir\source\repos\LessonTimerGame_1M\SpeedGame\bin\Debug\SpeedGame.exe.config
+C:\Users\viosagmir\source\repos\LessonTimerGame_1M\SpeedGame\bin\Debug\SpeedGame.exe
+C:\Users\viosagmir\source\repos\LessonTimerGame_1M\SpeedGame\bin\Debug\SpeedGame.pdb
+C:\Users\viosagmir\source\repos\LessonTimerGame_1M\SpeedGame\obj\Debug\SpeedGame.csproj.AssemblyReference.cache
+C:\Users\viosagmir\source\repos\LessonTimerGame_1M\SpeedGame\obj\Debug\SpeedGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\viosagmir\source\repos\LessonTimerGame_1M\SpeedGame\obj\Debug\SpeedGame.Form1.resources
+C:\Users\viosagmir\source\repos\LessonTimerGame_1M\SpeedGame\obj\Debug\SpeedGame.Properties.Resources.resources
+C:\Users\viosagmir\source\repos\LessonTimerGame_1M\SpeedGame\obj\Debug\SpeedGame.csproj.GenerateResource.cache
+C:\Users\viosagmir\source\repos\LessonTimerGame_1M\SpeedGame\obj\Debug\SpeedGame.csproj.CoreCompileInputs.cache
+C:\Users\viosagmir\source\repos\LessonTimerGame_1M\SpeedGame\obj\Debug\SpeedGame.exe
+C:\Users\viosagmir\source\repos\LessonTimerGame_1M\SpeedGame\obj\Debug\SpeedGame.pdb
